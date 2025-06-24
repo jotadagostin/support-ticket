@@ -1,0 +1,31 @@
+{
+  "Tickets": [
+    {
+      "id": "e04726fc-d53e-4ff6-bc2c-1172549f1287",
+      "equipament": "Computer",
+      "description": "Computer does not work",
+      "user_name": "Joao Paulo Dagostin",
+      "status": "open",
+      "created_at": "2025-06-24T09:13:27.569Z",
+      "updated_at": "2025-06-24T09:13:27.569Z"
+    },
+    {
+      "id": "84211aab-f796-4986-adad-a6751baeec5c",
+      "equipament": "Keyboard",
+      "description": "Keyboard key does not work",
+      "user_name": "Joao  Dagostin",
+      "status": "open",
+      "created_at": "2025-06-24T09:19:37.610Z",
+      "updated_at": "2025-06-24T09:19:37.610Z"
+    },
+    {
+      "id": "ae6e8253-16e3-4a4b-8435-bad500e97aa0",
+      "equipament": "Keyboard",
+      "description": "Keyboard key does not work",
+      "user_name": "Joao  Dagostin",
+      "status": "open",
+      "created_at": "2025-06-24T09:26:01.396Z",
+      "updated_at": "2025-06-24T09:26:01.396Z"
+    }
+  ]
+}
