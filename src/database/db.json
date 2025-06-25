@@ -5,7 +5,7 @@
       "equipament": "Computer",
       "description": "Computer does not work",
       "user_name": "Joao Paulo Dagostin",
-      "status": "open",
+      "status": "closed",
       "created_at": "2025-06-24T09:13:27.569Z",
       "updated_at": "2025-06-24T09:13:27.569Z"
     },
@@ -23,7 +23,7 @@
       "equipament": "Keyboard",
       "description": "Keyboard key does not work",
       "user_name": "Joao  Dagostin",
-      "status": "open",
+      "status": "closed",
       "created_at": "2025-06-24T09:26:01.396Z",
       "updated_at": "2025-06-24T09:26:01.396Z"
     },
@@ -70,7 +70,7 @@
       "equipament": "keyboard",
       "description": "mouse key does not work",
       "user_name": "Joao  Dagostin",
-      "status": "open",
+      "status": "closed",
       "created_at": "2025-06-24T14:34:55.704Z",
       "updated_at": "2025-06-24T14:34:55.704Z"
     }
