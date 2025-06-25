@@ -67,12 +67,13 @@
     },
     {
       "id": "ce933a0b-f63e-43c6-a475-38ed77394b21",
-      "equipament": "keyboard",
-      "description": "mouse key does not work",
+      "equipament": "Mouse",
+      "description": "Mouse left button is not working",
       "user_name": "Joao  Dagostin",
       "status": "closed",
       "created_at": "2025-06-24T14:34:55.704Z",
-      "updated_at": "2025-06-24T14:34:55.704Z"
+      "updated_at": "2025-06-24T14:34:55.704Z",
+      "update_at": "2025-06-25T14:44:54.329Z"
     }
   ]
 }
